@@ -1,0 +1,20 @@
+Key,English,French
+MainMenu.Play,Play,Jouer
+MainMenu.Option,Option,Option
+MainMenu.Quit,Quit,Quitter
+MainMenu.Language,Language,Langue
+MainMenu.French,French,Français
+MainMenu.English,English,Anglais
+MainMenu.Back,Back,Retour
+MainMenu.Resume,Resume,Continuer
+MainMenu.BackMainMenu,Back to menu,Retour au menu
+MainMenu.Pause,Paused,Pause
+d.Skip,Skip,Passer
+MainMenu.Win,Victory !,Victoire !
+MainMenu.Replay,Play Again,Rejouer
+MainMenu.Defeat,Defeat,Défaite
+MainMenu.Sound,Volume,Volume
+MainMenu.MasterVolume,Master Volume,Volume principal
+MainMenu.Title,Turn based,Tour par tour
+MainMenu.MusicVolume,Music,Musique
+MainMenu.SFX,Sound Effect,Effets sonores

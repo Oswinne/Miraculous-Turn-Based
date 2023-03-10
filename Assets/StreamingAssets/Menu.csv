@@ -1,0 +1,10 @@
+Key,English,French
+Menu.Attack,Attack the boss to make it react.,Attaque le boss pour le faire réagir.
+Menu.Block,Might block damages from boss attacks.,Peut bloquer les dégats des attaques du boss.
+Menu.Reload,"Leaves the field for the next 2 turns, reload the powers of the miraculous and regains 2 hearts.","Quitte le terrain pour les 2 prochains tours, recharge les pouvoirs des miraculous et rends 2 cœurs."
+Menu.Lucky,Investigate the boss weak points. Might be needed to reveal a weak point. Forced reload after 2 turns.,Étudie les points faibles du boss. Peut être nécessaire pour révéler un point faible. Recharge forcée après 2 tours.
+Menu.Sneak,Attack the boss from behind.,Attaque le boss par derrière.
+Menu.Teamwork,LadyBug and Cat Noir dodge the next attack if it is dodgeable. 2 turns of cooldown.,LadyBug et Chat Noir esquivent la prochaine attaque si elle est esquivable. 2 tours de recharge.
+Menu.Cata,Unlocks Cataclysm for the next turn. the boss to lose a turn on 2nd use. Forced reload after 2 turns.,Débloque le cataclyme pour le prochain tour. fait perdre un tour au boss à la 2eme utilisation. Recharge forcée après 2 tours.
+Menu.Taunt,Taunt the boss for 2 turns.,Provoque le boss pour 2 tours.
+Menu.Mlady,Make LadyBug play again.,Fait rejouer LadyBug1.
