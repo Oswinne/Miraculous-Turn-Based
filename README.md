@@ -1,13 +1,45 @@
 # Miraculous Turn Based
 
-Un jeu tour par tour basé sur Miraculous Ladybug.
+
+- [English](#table-of-contents)
+- [Français](#table-des-matières)
+
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Screenshots](#captures-décran---screenshots)
+
+## Description
+
+
+Miraculous Turn Based is a turn based boss fight game.
+The fights are very narrative to stay in the cartoon theme.
+
+## Installation
+
+1. Download MiraculousTurnBased.rar ![here](https://github.com/Oswinne/Miraculous-Turn-Based/releases/tag/1.0)
+2. Unzip the file.
+3. Run Miraculous Turn Based.exe
+
+## How to Play
+
+1. LadyBug and Black Cat have 6 skills each, the goal is to make the boss react using these skills.
+2. The principle is to defeat the boss by exposing all his weak points.
+3. Each weak point will be exposed by a series of actions.
+4. The characters will give you the solution to expose the weak points.
+
+
+###
+
 
 ## Table des matières
 
 - [Description](#description)
 - [Installation](#installation)
 - [Comment jouer](#comment-jouer)
-- [Captures d'écran](#captures-décran)
+- [Captures d'écran](#captures-décran---screenshots)
 
 ## Description
 
@@ -16,7 +48,9 @@ Les combats sont très naratif pour rester dans le theme du dessin animé.
 
 ## Installation
 
-1. Télécharger le .rar ![ici](releases/latest)
+1. Télécharger MiraculousTurnBased.rar  ![ici](https://github.com/Oswinne/Miraculous-Turn-Based/releases/tag/1.0)
+2. Décompresser le fichier.
+3. Lancer Miraculous Turn Based.exe
 
 ## Comment jouer
 
@@ -26,9 +60,9 @@ Les combats sont très naratif pour rester dans le theme du dessin animé.
 4. Ce sont les personnages qui vous donneront la solution pour exposer les points faibles.
 
 
-## Captures d'écran
+## Captures d'écran - Screenshots
 
-![Capture d'écran 1](screenshots/screenshot1.png)
-![Capture d'écran 2](screenshots/screenshot2.png)
+![Capture d'écran 1](/Screens/screen1.png)
+![Capture d'écran 2](/Screens/screen2.png)
 
 
