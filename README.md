@@ -31,7 +31,12 @@ The fights are very narrative to stay in the cartoon theme.
 4. The characters will give you the solution to expose the weak points.
 
 
-###
+<br />
+<br />
+<hr style="border:2px solid gray">
+<br />
+<br />
+
 
 
 ## Table des matières
